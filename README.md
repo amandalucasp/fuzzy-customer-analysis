@@ -1,4 +1,4 @@
-# Customer Analysis using Fuzzy C-Means
+# Customer Analysis using Fuzzy C-Means and K-Means
 
 Esse projeto foi desenvolvido como trabalho final da disciplina "Lógica Fuzzy" da pós-graduação em Engenharia Elétrica da PUC-Rio.
 
