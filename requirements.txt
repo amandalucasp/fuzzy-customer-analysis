@@ -1,0 +1,4 @@
+dataprep==0.4.5
+scikit-fuzzy==0.4.2
+seaborn==0.12.2
+fuzzy-c-means==1.7.0
