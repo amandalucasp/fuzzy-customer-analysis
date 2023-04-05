@@ -17,12 +17,6 @@ A proposta do projeto é comparar a performance do K-Means e do Fuzzy C-Means em
   * Utilizando diferentes valores para c/k (número de clusters)
   * Análise da influência do coeficiente nebuloso m
 
-### K-Means e Fuzzy C-Means
-
-No K-Means, o conjunto de dados é particionado em k grupos, sendo que cada grupo tem como seu centro a média das amostras pertencentes a este. O parâmetro k que define o número de clusters deve ser definido pelo especialista. Por atribuir cada amostra a um único cluster, o K-Means é um algoritmo do tipo "hard clustering".
-
-Já o Fuzzy C-Means é um algoritmo do tipo "soft clustering", e atribui para cada objeto valores diferentes da função de pertinência. Os valores de pertinência de uma amostra são referentes a cada cluster, de forma que um mesmo objeto possa pertencer a um ou mais grupos. Métodos desse tipo são interessantes em aplicações que envolvam dados onde se espera um "overlap" das classes/clusters finais. 
-
 ### Base de Dados
 
 O conjunto de dados utilizado para o presente trabalho é o "Customer Personality Analysis" disponível no Kaggle. É formado por 2240 amostras, que consistem em informações relativas aos gastos de clientes da empresa, separados por setores: compra de vinhos, frutas, carne, peixe, doces e ouro.
